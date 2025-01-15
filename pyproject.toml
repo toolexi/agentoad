@@ -1,0 +1,17 @@
+[project]
+name = "agentoad"
+version = "0.1.0"
+description = "Agentic framework to Effortlessly Hop between tools and connect with smart agents to build, manage and deploy AI workflows"
+authors = [
+    {name = "toolexi",email = "jayachandra.s.reddy@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
