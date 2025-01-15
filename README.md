@@ -1,2 +1,2 @@
-# radishy
-Effortlessly build, manage and deploy AI Agents
+# agentoads
+Agentic framework to Effortlessly Hop between tools and connect with smart agents to build, manage and deploy AI workflows

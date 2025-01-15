@@ -1,5 +1,5 @@
 [project]
-name = "agentoad"
+name = "agentoads"
 version = "0.1.0"
 description = "Agentic framework to Effortlessly Hop between tools and connect with smart agents to build, manage and deploy AI workflows"
 authors = [
